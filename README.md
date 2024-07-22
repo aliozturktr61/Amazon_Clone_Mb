@@ -56,3 +56,7 @@ include ':app'
 
 - Edit the android/app/build.gradle (located in the app folder) as shown below:
 implementation project(':react-native-vector-icons')# Amazon_Clone_Mb
+![amazon_mobil](https://github.com/user-attachments/assets/809b9138-19d7-4b8d-91cb-ed409ba1b090)
+
+
+
